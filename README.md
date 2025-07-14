@@ -30,9 +30,14 @@ This course spans the intricate landscapes of computer networks, from foundation
 By the end of the course, students will be able to: 
 
 ● Explain different types of operating systems and networks.
+
 ● Understand the concepts of data networks, OSI and TCP/IP models and their role in computer network architecture.
+
 ● Demonstrate an understanding of the structure and use of key networking protocols (IPv4 and IPv6).
+
 ● Analyze the security implications of data transmission over wireless networks.
+
 ● Develop skills in intrusion detection and secure communication protocols to mitigate cyber threats.
+
 ● Apply system and networking knowledge to a term project.
 
